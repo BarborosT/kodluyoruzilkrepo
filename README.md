@@ -1,6 +1,6 @@
 
 
-[Resim](/Users/barborostasdemir/Desktop/kodluyoruzilkrepo-1/Figure/GitHub.png)
+[Resim](Figure/GitHub.png)
 
 # Kodluyoruz Ilk Repo
 

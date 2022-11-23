@@ -1,6 +1,6 @@
 
 
-[Resim](Figure/GitHub.png)
+![alt text](Figure/GitHub.png)
 
 # Kodluyoruz Ilk Repo
 

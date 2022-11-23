@@ -1,5 +1,7 @@
 
 
+[Resim](/Users/barborostasdemir/Desktop/kodluyoruzilkrepo-1/Figure/GitHub.png)
+
 # Kodluyoruz Ilk Repo
 
 Bu repo [Kodluyoruz](https://www.google.com) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındıyor.
